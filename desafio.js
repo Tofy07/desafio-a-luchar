@@ -79,4 +79,3 @@ const  resultado = {
   ganador : ganador,
 };
 console.log (resultado);
-kjkhhhj
